@@ -71,7 +71,7 @@ header .site-title span
 
     display: block;
 
-    color: #61B2A4;
+    color: #81E0FE;
 }
 
 .block-center,section .container,#skills i{
@@ -107,7 +107,7 @@ section h2
 }
 
 #skills{
-    background-color: #ffd0be;
+    background-color: #fec081;
 }
 
 #skills .container
@@ -156,7 +156,7 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #61B2A4;
+    background-color: #81E0FE;
 }
 
 #skills h3{
@@ -164,7 +164,7 @@ section h2
     font-weight: bold;
     
     margin-bottom: 10px;
-    color: #61B2A4;
+    color: #81E0FE;
 }
 
 #works
@@ -261,7 +261,7 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #61B2A4;
+    background-color: #81E0FE;
 }
 
 #works .works-box img
@@ -280,7 +280,7 @@ section h2
 
 #works .works-box a .works-box-inner .button-readmore:hover
 {
-    background-color: #396960;
+    background-color: #21586A;
 }
 
 #contact ul{
@@ -327,11 +327,11 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #61B2A4;
+    background-color: #81E0FE;
 }
 #contact ul a:hover
 {
-    background-color: #396960;
+    background-color: #21586A;
 }
 
 footer
@@ -341,6 +341,6 @@ footer
     text-align: center;
 
     color: #fff;
-    background-color: #ffd0be;
+    background-color: #fec081;
 }
 
